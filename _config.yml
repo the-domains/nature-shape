@@ -6,9 +6,9 @@ color:
   saturation: 0.10314829624257982
   rhythmicContrast: 0.7787940700072795
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#010300'
+    - '#FFFFFF'
+    - '#3A4519'
+    - '#C3C1C6'
+    - '#898987'
 name: Nature Shape
