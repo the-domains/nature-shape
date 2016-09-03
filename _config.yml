@@ -1,9 +1,19 @@
-layout_spectrum: 0.6485329454299062
-typography_spectrum: 0.5385254963766783
+title: Nature Shapes
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1031482962425798
   brandStrength: 0.4369358962867409
-  lightness: 0.9813161718193442
-  saturation: 0.10314829624257982
   rhythmicContrast: 0.7787940700072795
   brandColors:
     - '#F7EDF0'
@@ -11,8 +21,10 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Nature Shapes
-title: Nature Shapes
+  lightness: 0.9813161718193442
+typography_spectrum: 1
 description: >-
   "Without the interfering hands of civilization, Nature will always shape
   itself to its own needs"
+layout_spectrum: 0.6485329454299062
+name: Nature Shapes
