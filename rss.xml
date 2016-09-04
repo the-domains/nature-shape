@@ -4,8 +4,15 @@
         <description><![CDATA[Nature Shapes]]></description>
         <link>https://thegrid.ai/nature-shapes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 06:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 21:57:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nature-shapes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ea2c33-b983-4645-b5cb-8849f910e9cf.jpg">]]></description>
+            <link>https://thegrid.ai/nature-shapes/617ab475-0c75-4b3c-b0b3-7f42fc8e50b8/index.html</link>
+            <guid isPermaLink="false">617ab475-0c75-4b3c-b0b3-7f42fc8e50b8</guid>
+            <pubDate>Thu, 01 Sep 2016 21:57:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/307fb5f7-b5f3-4bfc-abfc-2d10e022fb23.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nature-shapes/home/index.html</link>
             <guid isPermaLink="false">2e40e00e-3af4-4a85-abbf-50f4ed0b6c1c</guid>
             <pubDate>Thu, 01 Sep 2016 06:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28ea2c33-b983-4645-b5cb-8849f910e9cf.jpg">]]></description>
-            <link>https://thegrid.ai/nature-shapes/617ab475-0c75-4b3c-b0b3-7f42fc8e50b8/index.html</link>
-            <guid isPermaLink="false">617ab475-0c75-4b3c-b0b3-7f42fc8e50b8</guid>
-            <pubDate>Thu, 01 Sep 2016 06:36:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
