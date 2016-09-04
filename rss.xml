@@ -4,7 +4,7 @@
         <description><![CDATA[Nature Shapes]]></description>
         <link>https://thegrid.ai/nature-shapes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 21:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 21:58:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nature-shapes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,13 +29,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8ff77f-4e02-4e25-b5ed-d82cb23591dd.jpg" alt="Nature withers and grow, starting from the ground up, always fighting the odds. ">]]></description>
-            <link>https://thegrid.ai/nature-shapes/wither/index.html</link>
-            <guid isPermaLink="false">84092114-a4a3-462d-ae76-f8bead11f5f8</guid>
-            <pubDate>Thu, 01 Sep 2016 21:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a0f8479a2139e91707f24110c5b2a3da8834a02.jpg" alt="Blue reminds me of the ocean, the sky, the vastness of it to blanket all of mother nature.">]]></description>
             <link>https://thegrid.ai/nature-shapes/the-colours-blue/index.html</link>
             <guid isPermaLink="false">9f1f2bca-b55d-4fdc-a7b7-5c7bcbfdf13a</guid>
@@ -47,6 +40,13 @@
             <link>https://thegrid.ai/nature-shapes/the-colours-red/index.html</link>
             <guid isPermaLink="false">410535fc-623d-457e-8f72-37286ba63b9c</guid>
             <pubDate>Thu, 01 Sep 2016 06:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d8ff77f-4e02-4e25-b5ed-d82cb23591dd.jpg" alt="Nature withers and grow, starting from the ground up, always fighting the odds. ">]]></description>
+            <link>https://thegrid.ai/nature-shapes/wither/index.html</link>
+            <guid isPermaLink="false">84092114-a4a3-462d-ae76-f8bead11f5f8</guid>
+            <pubDate>Thu, 01 Sep 2016 06:36:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
