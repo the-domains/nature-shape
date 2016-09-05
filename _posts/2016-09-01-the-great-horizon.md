@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-01T06:04:15.377Z'
+datePublished: '2016-09-02T09:44:46.412Z'
 author: []
 via: {}
-dateModified: '2016-09-01T06:04:12.981Z'
+dateModified: '2016-09-02T09:44:45.861Z'
 title: ''
 publisher: {}
 description: The Great Horizon
-starred: false
 sourcePath: _posts/2016-09-01-the-great-horizon.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
